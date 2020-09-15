@@ -1,0 +1,1315 @@
+值传递：传递的是一个副本，原值不会改变
+引用传递
+
+java程序从上往下环境依次：java程序,JVM编译，操作系统，操作硬件
+
+JSP页面9大内置对象和类型
+request 		HttpServletrequest
+response       	HttpServletResponse
+config 		ServletConfig
+application 	ServletContext
+session 		HttpSession
+exception 	Thrwable
+page		Object
+out		JsWrite
+pageContext	pageContext
+
+ajax默认格式
+url 请求地址
+dataType  默认返回格式json
+asyn 请求是否为异步，默认true
+ajax默认type请求方式get
+data 参数值
+type 请求方式默认get
+
+不能作为Linux根分区的类型的是：除了ntfs，macfs，solaris直之外所有
+
+
+线程说法错误的是：调用Thread类的sleep()方法可以终止一个线程对象
+为了获取用户提交的表单参数，可以从ServletRequest接口中得到
+在Linux中，为防止系统出现问题，不想保存所修改的内容，
+在末行模式下，键入：q!
+在编辑模式下，键入Esc键直接进入vi
+在Linux的编辑器中，命令dd用来删除当前行
+阶段项目中，tail-f:动态加载某个文件的内容
+在Linux中，ps-ef|grep关键字查询进程
+在Linux中，可以修改目录名称的命令是mv
+在Linux中，Is-I命令可以查看目录下的所有文件权限
+在Linux中，cat命令可以查看文件内容  more类似于cat
+在Linux中，mv命令允许对文件重命名
+在Linux中，less命令在查看文件过程时通过光标上下移动查看文件内容
+在Linux中，export命令导出环境变量 ，输出结果有两列组成，左边是变量名，右边是响应变量值env
+在Linux系统中能查看本地ip地址的命令是ifconfig
+Linux分区类型默认ext2
+不能作为Linux根分区类型的有ntfs，macfs,solaris
+Linux中，less命令再查看文件内容过程中可以用光标上下移动来产看文件内容
+Linux系统查看本机IP命令ifconfig
+在Liunx中查看路径pwd
+Linux查看磁盘工作空间du
+运行环境不属于外部环境接口
+
+export用来定义SHELL的全局变量
+调试F5跳入 下一步 F6跳过下一步 F7跳入上一步函数
+java中使用调试说法错误的是：使用程序调试的方法为--观察变量--设置断点--单步运行
+正确步骤：设置断点——启动断点-观察变量
+javaDoc文档JavaDoc
+
+菱形表示判断 矩形长方形处理过程   圆长方形 开始 平行四边形输入输出
+
+
+javac用于将java源代码文件编译成字节码命令
+编译：将高级语言转换成低级语言，
+将后缀名为.java的源文件编译为后缀名为.class的可以运行与Java虚拟机的字节码
+高级语言：程序员认识的语言 
+低级语言：计算机认识的语言
+反编译：将class文件转换为java文件
+
+
+
+在java中对于java反编译说法错误的是：
+java的javac可以反编译.class文件
+java是类型安全语言，如果没有对应源码，是不能进行反编译的
+
+JVM特征：
+移植性
+成熟
+覆盖
+java特征
+跨平台性
+简单
+面向对象
+安全
+多线程
+fw.write(str);
+枚举说法错误的是：除了可以定义枚举常量意外不能出现其他成员
+
+java中关于接口和抽象类说法错误的是：接口只能定义抽象方法
+不属于运行异常的是IoException
+多线程用于并发，线程是进程中执行运算的最小单位，每个线程完成一个独立的顺序控制流程
+BufferedWrite类进行文本文件写入时，首先需要
+通过OutputStreamWriter或者FileWrite对象作为参数的构造方法，构造一个对象
+mysql中，允许User用户查看BookStore数据库所有数据
+grant select on BookStore.* to User;
+location的hostname属性是可读可写字符串，设置返回当前URL的主机名
+枚举类型说法错误的是:在枚举中，除了可以定义枚举常量以外不能出现其他成员
+fw.write(str);
+javac用于将java源代码文件编译成字节码
+java中javac可以反编译.class文件
+java是类型文件语言，如果没有对应源文件，不可进行反编译
+接口中的方法都是抽象方法，变量都是常量
+接口多继承，抽象类单继承
+Math对象yyyy-MM-dd
+枚举说法错误的是，除了可以定义枚举外·不能出现其他成员
+color类中枚举public enum color{red，yellow，pink；}
+Js中显示错误的是  docu.getElemnetByName().get(0)
+JS中显示错误的是document.getElementByName().get(0)
+location对象的hostname属性返回可读可写字符串，返回当前URL主机名
+不属于修改字符集命令的是set character_set_databases=utf-8;
+在mysql中说法错误的是set character_set_databases=utf-8所有数据库的默认字符集
+返回整数2-99Math.floor(*98+2);
+charset_set_client :客户端默认字符集
+标识符不能有关键字，只能有数字，字母_(下划线)$组成，不能数字开头，不能是关键字，区分大小写
+JVM说法错误的是：java一次编写，到处运行是因为JVM本身跨平台
+javaDoc文档不能用命令直接生成
+多线程用于实现并发
+BufferWrite类进行文本文件写入时，
+首先要通过OuputStreamWrite或者FileWrite对象作为参数构造函数，构造一个类对象
+Node不适于js中DOM节点的常用属性
+js中全局函数parseFloat，eval
+终止结构不是js的程序结构
+<!--   --->既不是单行注释也不是多行注释
+
+javac用于将java源代码编译成字节码
+java反编译错误的是：java的javac可以反编译.class文件
+java是类型安全语言，如果没有对应源码，是不能进行反编译的
+关于封装说法错误的是：构造方法不能封装
+Mysql命令导入恢复数据库 mysql -u  用户名 -p密码 [库名]<备份路径备份文件名
+
+获取唯一元素个体ElementsById();
+
+java中,生成javaDoc开发文档方法主要有使用MyEclipse工具生成
+java反编译文件是将.class文件转化为.java文件
+java文档注释/**开头 */结尾  单行注释// 多行注释 /* */结尾
+private abstract void fly();编译错误  private
+构造函数可以重载 方法重载：方法名称形同 ，参数列表不同，参数类型，参数个数，与访问修饰赋无关
+说法错误的是：钩爪方法不能封装
+this对象是在类的内部指代当前实例之身的引用
+
+
+
+
+0706
+1A
+2D
+3D *
+4A
+5B
+6CD*
+7C*
+8D
+9A
+10C
+
+
+
+
+考试3
+1B错Linux中cat查看文件内容
+Liunx中cat命令可以查看文件内容
+2D
+3C
+属性类型放在冒号后面，返回值类型放在冒号后面
+4A错
+5A错 setMaxAge()设置Cookie有效期 单位秒
+setMaxInactiveInterval设置当前会话的有效时间 单位秒
+6D
+7C
+获取·数据源
+<Resource name ="java:comp/env/jdbc/books"省略其他属性>  
+8B 错
+call 和apply相同点：方法含义和功能一样 第一个参数作用一样的
+不同点：call可以传入多个参数，apply只能传入两个参数；第二个参数通常以数组传入
+9C
+10C
+11C 错
+12D错
+13CD错    数据库备份
+14B
+15D错
+Collections.swap(集合，用于交换指定位置的元素);
+16B
+泛型的本质是参数化类型，类型参数只能是引用型类型
+泛型类提供了更好的类型安全
+泛型类减少了装箱和拆箱
+.NET支持泛型类
+17A  010 错 
+18CD
+19A
+20C
+21D错  
+如果通过类名来调用静态方法，并且在调用之前实例化了本类对象，这时系统会产生编译错误
+22B
+线程的五种状态 创建状态    就绪状态   运行状态 阻塞状态  死亡状态
+创建状态  启动线程 到就绪状态  阻塞状态  阻塞解除到就绪状态   就绪状态 获得CPU资源到运行状态
+运行状态释放资源到就绪状态 运行状态 等待用户，休眠静茹阻塞状态 运行状态线程自然执行完毕到死亡状态
+使用线程步骤 定义线程-----创建线程对象----启动线程----终止线程
+实现Runnable接口多继承
+23C
+24D ServletFileUpload 实现文件上传大小
+FileItemFactory临时文件大小
+25A
+<param-name>参数名称
+<param-value>参数内容
+dopost方法中获取初始化参数getInitParameter("参数名称");
+26C错
+27C
+28A 错
+getResourceAsStream（conFile）
+load(in)
+29A
+30BC
+线程是否安全是指当多个线程共同修改同一个Count对象的Count时，是否会出现错误
+31D错
+32B 类是java语言中的一种复合数据类型
+类是java语言中的一种符合数据类型
+说法错误的是：java语言的类支持单继承和多继承
+33C错
+数据访问层关注数据库访问，业务逻辑层重点是业务逻辑，表示层注重用户交互
+34C编译错误
+35D 错价格为10万，20万
+36A 错
+37AD 错  EL表达式访问cookie和四大作用域中的存储数据
+38B
+39BC 错
+说法错误的是
+通过PreparedStatement对象的setxxx()方法为sql语句指定位置的参数填充值，
+参数下表从0开始
+40A传输控制协议
+41D 错
+42A
+执行start()方法后线程处于就绪状态
+43A
+44AD
+绑定事件 bind(type[事件类型，],data[可选函数],fn[处理函数])
+解除绑定unbind();无参数遍视移除全部
+45A
+46C
+47C
+48D
+49D
+50B 错大家好，我是小明
+
+
+java集合框架
+按接口分为Collection和Map
+Collection[提供了对集合排序和遍历的多种算法实现]分为list和Set 
+list为ArrayList和LinkedList  Set为HashSet和TreeSet[不唯一，有序(插入顺序)]
+Map分为HashMap和TreeMap[唯一，无序对象]
+ArrayList实现长度可变的数组，在内存放分配连续空间，遍历元素和随机访问元素效率高
+LinkedList采用链表储存方式，插入删除元素效率高;
+特用的方法addfirst()在同步插入一个元素
+addlast()在尾部插入一个元素，移除也是
+
+List常用方法
+add();添加索引下标从0开始
+Object get(int index);获取元素类型为Object,需进行强制类型转换
+Boolean contains(Object o);判断列表中是否存在指定元素
+
+
+考试5
+1D
+2B HashTable类是线程安全，效率较低，键值都不允许为null，实现Map接口，继承Dictionary类
+HashMap非线程安全，效率高，键值都允许null，实现Map接口，继承AbstractMap类
+ ArrayList非线程安全
+HashSet集合存储数据结构
+3D  alter修改alter table 旧表名 rename (to) 新表名
+修改字段change  : alter table 表名 change 旧字段 新字段  数据类型 属性
+修改数据类型 modify :alter table 表名 modify 字段名 新数据类型 属性
+添加字段add ：alter table 表名 add 字段名 数据类型 字段属型
+删除字段drop :alter table 表名 drop 字段名
+4D Iterator 迭代返回数据类型Object hasnext()判断是否有下一个元素
+5A pattern属性规定用于验证输入字段的模式，模式是正则表达式
+required 该属性，表示该字段是必选的，提交前必须为非空
+StringBuffer线程安全，StringBuilder非线程安全
+6A JSP三阶段 翻译编译执行
+7DC静态方法只能调用静态属性或方法，非静态的方法和属性必须实例化
+静态方法只能调用静态属性和方法，非静态方法和属性必须实例化
+8B 
+连接数据库步骤
+加载驱动class.forname("com.mysql.jdbc.Driver");
+连接数据库
+获取连接的类和对象 Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306:数据库名");
+执行sql命令
+返回结果
+处理结果，释放资源
+关闭顺序 ResultSet  Preparestatement(statement) Connection
+9C
+10C
+11B
+12BC js 单行注释//  多行注释/**/
+js特点：边执行边解释，语法与java相似，向Html页面中用添加交互行文
+DOM对象和javaScript对象相互转换
+DOM对性的显示 对象.innerHTML()
+Jquery对象的显示 $(对象).html();
+DOM对象转化为jQuery对象$(对象).html();
+JQuery对象转化为Dom对象$("对象").get(0).innerHTML;
+$("对象")[0].innerHTML();
+初始化加载$(document).ready(function(){})==$(function(){})
+输入prompt("提示信息","要输入的值")
+13CD JavaBean是一个共有的类，也可以是私有的类
+通过设置共有getter,setter访问器来获取属性值
+14C 用例图属于UML范畴 用例图是由参与者。用例，以及它们之间的关系构成的图形
+用例图属于UML范畴
+15B url-pattern 制定servlet类的访问路径
+16D 流按处理数据单元划分 字节流  字节输入流FileInputStream 字节输出流 FileOutputStream
+字符流：字符输出流OutputStreamWriter 字符输入流InputStreamReader()
+BufferWriter 高效输出流有缓存区  flush()冲刷缓冲区
+BufferReade读取文件是Reader子类
+流按类型划分字节流和字符流 字节输入流FileInputStream字节输出流 FileOutputStream
+字符输入流 InputStreamReader 字符输出流OutputStreamWriter
+17D mv命令允许对文件重命名 mv命令允许对文件重命名
+18D mysql默认端口号3306
+port 是客户端和服务端的端口号
+default -character-set 客户端默认字符
+character-set-server 服务器默认字符集
+19D
+20D
+history()对象
+history()对象列表的下一个 history.forward=histiry.go(1)
+history()对象列表的上一个history.back=history.go(-1);
+Date对象
+getDate()返回一个月中某一天
+getDay()一周中的某一天
+getHours()返回小时
+getMinutes()返回分钟数
+getSconds()返回秒数
+getMonth()返回月份正常月份应+1
+getFullYear()返回年份
+Math对象 floor 向下取整
+ceil向上取整
+round四色五入
+isNaN()判断是否包含数字，包含返回false,不包含返回true
+11subString 共两个参数，一个参数时，自从参数开始位置截取到最后
+
+基本选择器 
+标签选择器$("p")选取所有p标签，类选择器$(".")，ID选择器$("#")
+并集选择器，$("div,p,.title")选取所有div,p和class.title的元素
+全局选择器$("*")
+层次选择器
+后代选择器  用空格 后代选择器用空格
+子选择器 用“>” 子选择器 用>
+相邻元素选择器  用"+"选取该元素后下一个元素
+同辈元素选择器 “~”该元素之后的所有同辈元素
+基本过滤选择器：eq(1)选取索引等于1的元素索引从0开始
+gt()大于  gt（1）大于1不等于1
+odd索引是奇数行
+visible选取所有可见元素
+toggle()实现隐藏与显示互换
+21BC  文本内容 div中无val()属性  
+22C 
+Sleep()是Thread类的静态方法
+调用join()可能抛出InterrupteException
+线程 五种状态 创建状态  就绪状态 阻塞状态 运行状态  死亡状态 
+启动线程到就绪状态，阻塞状态解除到就绪状态  运行状态休眠后成为阻塞状态、
+运行状态执行完毕后称为死亡状态
+就绪状态获得CPU资源后变为运行状态 释放资源后称为就绪状态
+Star()多条执行路径，主线程和子线程并行交替执行
+sleep休眠处于阻塞状态
+线程是CPU调度和分派的基本单元；进程中执行运算的最小单位，可完成一个独立的顺序流程控制
+进程：有独立的内存空间和系统资源，应用程序的执行实例
+使用线程的步骤定义线程----创建线程对象---启动线程-----终止线程
+实现创造线程方式继承Java.Lang.Thread类 ,实现java.Lang.Runnable接口
+synchronized解决多线程数据访问，线程的锁
+setPriority()线程优先级 默认5，1最低10 
+join()等待线程终止
+yield()暂停当前执行线程对象，执行其他线程
+interrupt()中断线程
+Boolean isAlive(),测试线程是否在活动(执行)状态
+线程说法手法错误的是调用Thread类的sleep()方法可以终止一个线程对象
+23C 调用父类构造函数必须放第一行
+24D request,session返回值类型Object
+25D
+26C  错 相同键不会报错，移除不存在键也不会报错
+27C 错 基本选择器  和层次选择器  gt大于 lt小于
+28D   alert(数字+“字符”)
+29B fadeIn()可跟可不跟 fadeIn("slow")用英文需加引号
+访问修饰符 private 只能在本类中使用
+friendly本类同包中都可以使用继承
+protected本类同包子类都可以继承使用
+public 公开的
+关键字final 定义属性表示常量，必须赋初始值，不能再次赋值
+定义类，该类不能被继承
+定义方法，该方法不能被重写
+抽象类和抽象方法：
+一般吧父类定义为抽象类
+抽象类中不一定有抽象方法
+抽象类不能实例化
+抽象方法abstract放在访问修饰符后
+子类一定要重写父类的抽象方法，否则子类也要定义为抽象类
+抽象方法一定位于抽象类中
+30D
+31D
+32CD
+33CD
+34D
+35C
+36A   MySql优势：运行速度低，使用成本低，可移植性强，使用用户广
+社区版(开源)和企业版(收费)
+A
+AAtomicity原子性   C Consistency一致性   I Isolation隔离性   D Durability持久性
+ Atomicity原子性   C Consistency 一致性 I Isolation 隔离性   D Durability持久性
+37A UNIQUE 唯一索引 保证隔行在该索引上的值都不得重复
+38D错  未获得用户提交的表单数据，从ServletRequest接口中获得
+为获取·用户提交表单参数，可以从ServletRequest接口中获取
+为获取用户提交的表达参数，可以从ServletRequest接口中的到
+39B 错
+40D错 两导包键用，
+41D 终止·finallysystem.exit(退出)  
+numberformatexception 数字格式化异常
+42BD 错 prompt可输入
+43A  Mqsql驱动
+44A invalidate失效 对象失效显示异常
+45D 在编写需求规格时，避免使用计算机专业词汇，
+46D 二进制文件写入writeUTF('ABC'); 
+47A
+48C
+49D ：base(name); 
+编译错误
+编译错误
+编译错误 ：Base(String name);
+50A 动态网页是指在服务器端运行
+动态网页是指在服务器端运行
+
+
+
+考试6
+1D getDay（）星期几
+2B 
+在c#中，类属性和方法说法错误的是：在具有ref参数的方法中
+，必须对ref参数进行赋值
+在c#中，类属性和方法说法错误的是：在具有ref参数的方法中，
+必须对ref参数进行赋值
+在c#中，类属性和方法说法错误的是：在具有ref阐述的方法中，
+必须对ref参数进行赋值
+3A port="8080" servlet.xml配置文件
+4A nchar一个中文代表1个字符，char一个中文代表2个字符
+varchar()和nvarchar()长度可变
+5A
+6B
+7DC JSTL有<c:catch> JSTL有<c:catch>
+8A catch异常种类 throws声明 throw 抛出异常
+throw抛出异常 throws声明异常
+9AC  原子性，一致性，隔离性，持久性：事务完成后 ，数据不可返回
+10B siblings() siblings()所有同辈元素
+11DB 构造函数为返回值
+12B log4j日志文件命名
+13C	主键约束用于唯一确定表中的每一行数据
+14A 特定有问题
+DOM可被javaScript用来读取，改变HTML.XHTML以及XML文档
+DOM是W3c标准，定义访问HTML和XML文档的标准
+
+15A
+16AC 子查询语句可以嵌套在sql语句中任何变大时出现的位置
+只出现在子查询在而没有出现在夫查询中的表不能包含在输出列中
+子查询语句可以嵌套在sql语句中任何表达式出现的位置
+只出现在子查询中而没有出现在夫查询中的表不能包含在输出列中
+17AC DOM对象value
+18B  一个父类可以有多个子类 一个父类有多个子类
+19D ServletContext相等于web项目
+20A  ps-ef|grep abc查看含有abc的活动进程
+21D 强制类型转换session和request返回类型Object
+22D drop table表名 drop table 表名；
+23C
+24D方法重写
+子父类关系中，方法名称相同，放回置类型相同，参数列表相同，子类的访问修饰符部的言语父类访问修饰符
+方法重载
+方法名称形同，参数类型不同，参数类型，参数个数，排序，与访问修饰符，返回值类型无关
+25A
+ onfoucs 在HTML中使用和foucs在jq中区别
+onfoucs在HTML中使用    foucs在jq中使用
+26 B 三木运算符 getSeconds()秒 满足条件执行第一个，否则第二个
+27AD
+28A  1私有化2getter（）setter()3加逻辑控制语句
+不需要将属性和方法封装到private类
+29C 
+容器接收客户端请求后，执行编译成的字节码.class文件
+容器接受客户请求后，执行编译成字节码。class文件
+30D  子类就是父类 Object所有类型的祖先级 true，true，true
+31C servle.xml文件中port修改端口号
+32C js数据类型undefined  String 单双引号生命的字符串 Boolean 
+ number整数或浮点
+Object对象数组null
+33D request对象转发
+34D 运行环境不属于外部接口
+35D siblings所有同辈元素
+36C foo
+37C document.getElementById("user")
+38C
+39D 文件引用 <%@ include file=""%><%@  include file=""%>
+40B  DAO模式不包括dao控制类
+DAO模式不包括dao控制类
+41B isNaN检测是否为数字，是返回false， 否则返回true
+42AC ajax缺点对搜索引擎支持较弱 对搜索引擎支持较弱
+对搜索引擎支持较弱
+43D[3]越界 报错数组下标越界异常
+44D int 不能作为dataType参数值  int不能作为dataType参数值
+45BC load()可以将该XML字符串读入X目录Document对象
+46A  Is-I查看目录下所有文件权限 
+Linux中Is-I命令查看目录下的所有文件权限
+47D
+48B 类是对象的抽象，创建对象就是类实例化的过程
+49A 查看表结构 describle 表名
+50B x指定不明确及实现又继承 编译出错 x指代不明
+
+
+
+
+
+
+考试7
+1AC limit 4,4 从第5条到第8条
+2A charset_set_server修改服务	·器默认字符集
+charset_set_server修改服务器默认字符集
+character_set_client 参数可以修改mysql服务器默认操作字符集
+3A
+4A struct结构
+5C request存放request接受，${}
+6A   EL表达式通过键来取值不报错，没有显示空
+7A
+8A
+getInitParameter获取上下文初始化参数
+getInitParameter获取上下文初始化参数
+9C
+10D createElements 创建节点
+11B
+opacity 参数值0-1；width："200px"; height："200px"
+$("#box").animate({
+width:200px,
+height:100px,
+opacity:0.5
+})
+B  opacity 值的范围0-1
+width:200px，无引号
+12B
+13D
+14D
+15C
+16B 装箱操作值类型转换成引用类型 拆箱强制类型转换
+装箱操作值类型转换为引用类型，  拆箱操作强制类型转换
+17C 向上转型 父类 =new 子类 向上转型 子类 子类对象=new 父类
+18AD eval转换json转换成string
+19B is not null或者is null
+20D
+21C get()将jQuery对象转换为DOM对象
+22C  在Linux中ps-ef|grep查询进程
+23D
+24B
+open方法用于创建新的http请求
+ send 发送请求到服务器端 setRequestHeader
+在Ajax的引擎XMLHttpRequest对象中，open方法用于创建新的http请求
+25D
+26B session存储机制依赖cookie客户端机制
+session存储机制依赖cookie客户端机制
+27B局部变量不赋值不能使用 String s；编译出错
+局部变量不赋值不能使用，String s;编译出错
+28CD 
+text()获取文本内容 html()获取html值
+29B 创建实体类不是JDBC访问数据库的步骤
+30A
+31A
+32C
+33D fadeIn();使用英文需加引号
+StreamReader对象错误的是
+StreamReader Reader=new StreamReader();s
+34 D 实例化StreamReader对象错误的是：StreamReader  Reader=new StreamReader（）
+StreanmReader对象实例化错误的是：StreamReader Reader=new StreamReader
+35DB odd奇数行 even偶数行 it小于 gt大于 空格 后代选择器
+36D
+37B
+方法重载 
+同一个类中，方法名称相同，参数列表不同，参数个数，参数类型
+方法重写
+在子父类关系中，方法名相同，参数列表相同，返回值类型相同，之类的访问修饰符不得严于父类的访问修饰符    
+38D 构造函数无返回类型
+39B 参与者不属于用例图组成部分
+参与者不属于用例图组成部分
+参与者不属于用例图组成部分
+40B ServletFileUpload().setSizeMax()用于控制文件上传大小
+ServletFileUpload().setSizeMax()用于控制文件上传大小
+ServletFileUpload().setSizeMax()用于控制文件上传大小
+41D 
+42A   <script>可以放置在javaScript代码中
+<script>可以放置在javaScript代码中
+43D
+44C hsitory对象的forward或者go(1)用于加载历史列表中的下一个URL页面
+go.back()或者go(-1)返回上一页
+history对象的forward或者go(1)用于加载历史列表中的下一个URL页面
+go(-1)或者go.back()返回上一页
+back()上一页 forward下一页
+45B 控制台输出c 
+控制台输出c
+控制台输出c
+46A
+47CD 
+
+DQL数据化查询语言select
+DCL数据化控制语言grant commit rolleback
+DML数据化操作语言 insert delete update
+DDL数据胡定义语言create drop alter
+
+DQL数据化查询语言select()
+DCL数据化控制语言grant commit RollBack
+DML数据操作语言(增删改)insert delete update
+DDL数据定义语言create drop alter
+DCL(数据控制语言) grant commit RollBack
+
+
+48C
+49A var变量值  value=“EL表达式”
+var=定义变量 value=“EL表达式(${})”
+50BLinux中可以修改目录名称的命令mv
+
+
+
+
+
+
+
+
+考试二
+1.sibling所有同辈
+next下一个 prev上一个
+2先输出在调用return
+3.this只能放在方法中使用
+this对象内部指代对象自身引用
+this关键字和类关联，是和特定对象关联
+4重定向2次请求（转发和重定向）
+转发                                              重定向
+request.getrequestD                   response.sendRi
+请求次数1次                           请求次数两次
+向后转发地址栏不变                      向后转发地址栏改变
+向后转发会带着数据                     向后转发不会保留数据
+转发服务器行为
+7控制文件上传大小 ServletFileUpload
+临时文件大小FileItemFactory   
+8session会话关闭浏览器就失效了
+httpsession不能在不同用户之间共享数据
+不同用户数据共享  数据库，文件系统，ServletContext对象
+9onmouseover:将鼠标移至某元素上
+
+const 常量声明完后不能改
+15装箱和拆箱
+装箱操作：值类型转化为引用类型
+拆箱操作：引用类型转换为值类型
+装箱操作：值类型转换成引用类型
+拆箱操作：引用类型到值类型
+16getDate();一个月中一天
+getDay();益州某一天
+14在类中定义
+15
+19时间和索引不能虚拟
+8session关闭浏览器
+1D
+2D
+3A this关键字是在对象内部指代对象自身的引用
+this是在对象内部指代对象之身的引用
+4A
+5D
+6B
+7B
+8AHttpSession不能在不同用户之间共享数据
+9C
+10D 静态成员不属于类的某一个具体实例
+类的静态成员可以通过类名调用
+静态成员不属于类的某一具体实例
+类的静态成员可以通过类名调用
+c#中关于静态说法错误的是：静态成员可以通过类名调用
+
+11C
+12D
+配置servlet映射是，<servlet-class>com.abcine.OrderServlet</servlet-class>可以指定一个servlet类型
+配置servlet映射时，<servlet-class>com.abcine.OrderServlet</servlet-class>
+
+
+13D
+14AB 
+static修饰的属性和方法称为类属性和类方法
+不适用static修饰的属性和方法，通常称为实例属性和实例方法
+15B    
+16C产生当前日期的是 new Date()
+17AC  slow()参数可以为数字，英文用英文需用双引号
+18AB 
+19C  C#中多态说法错误的是：字段，方法，属性，时间，索引器都可以是虚拟的
+20B
+21D
+application对象在服务器启动时自动创建
+application可以保存数据
+22AD 
+23CD 在Linux中将数据库用户root密码设置为123456
+update mysql.user set password =PASSWORD'123456' where user='root'
+mysqladmin - u root p- password '123456'
+在Linux中将root密码设置为123456 
+update mysql。user set password=PASSWORD('123456') when user='root'
+mysqladmin  - u root p- password '123456'
+24B事件流由基本流和备选流组成
+25BD 在本类中静态方法中，调用非静态方法，需创建该类对象进行方法调用
+26D sql语言中，%不能表示为搜索关键字中包含字符%
+27C
+28A执行start()方法后，线程处于就绪状态
+29D
+30B    tail-f：动态加载某个文件的内容
+31B unbind解除绑定（无参数移除所有）
+bind()绑定函数
+32A
+33B
+34AC 
+Cookie不属于内置对象， response.sendRedirect
+JSP内置对象描述错误的是：out对象赋值像浏览器输出内容
+35B   JDBC访问数据库步骤:加载驱动  获取与数据库连接的类和方法connection
+连接数据库
+创建Statement或PreparedStatement     发送sql命令语句并返回结果，处理返回结果
+JDBC访问数据库的步骤：加载驱动JDBC驱动，获取与数据库连接的类和方法 连接数据库
+创建Statement或者Pre对象，发送sql语句并返回结果集，  处理结果集
+
+36AC
+37AD     $'<p>'选取所有p标签
+38DB 负责执行sql语句的接口Statement和PreparedStatement
+39 A    C#中值方式传递一个枚举参数传递不能保存在方法中修改过的值
+40AC
+js中正确定义数组的是 var arr=[{"name":"牛奶"},{"name":面包"}]
+var arr=new Array("牛奶","面包");
+41BC 实现高低变化slideup(）slidedown()
+42D
+43C 数据库的ACID属性 A Atomicity原子性 C Consistency一致性  
+I Isolation隔离性  D Durability持久性
+44B 
+js中call和apply描述错误的是：两者传递参数不同，
+45D 多个属性用大括号$("div").css({"":"","":""});
+多个属$("dic").css({"":"","":""});
+46B 
+在javaWeb中，使用表单上传文件时，enctype类型的属性值为multipart/form-date
+47B下拉框 onchange() 
+48D between包括200-300
+49AC  
+Tomcat版本必须是大于6.0才能安装
+不可以将windows中的安装程序在Linux中安装
+50BD数据访问层，业务逻辑层，表示层
+三层 数据访问层，业务逻辑层，表示层
+
+
+考试4
+1B C/S架构客户端 B/S服务器架构
+2A JavaScript只有单行注释和多行注释
+js只有单行注释和多行注释
+3D
+4B javascript数字只有number,无int,float    visible可视的
+5A
+6C 工厂函数 $()  jQuery中变量jQuery等同于$()
+jq对象和DOM对象相互转换
+DOM对象的显示 对象.innerHTML()
+jQ对象显示 $("对象").html()
+DOM对象转换为jQ对象：$(对象).html()
+jQ对象转换为DOM对象：$(对象).get(0).innerHTML;
+$(对象).[0].innerHTML();
+7B   linux中不想保存所修改的内容在末行键入:q!     :vi 进入
+linux中不想保存所修改的内容在末行见图：q!
+在Linux中不想保存所修改的内容在末行，键入：q!
+8B 先走空构造，子类继承父类,先执行父类空构造
+先走空构造，子类继承父类，先执行父类的·空构造
+9C 	B.java   B.java
+10A concat 拼接
+11D
+12C sendRi 使用转发时客户端浏览器地址不会向后跳转
+13C
+14AB 成员变量不赋值默认0 ，可以赋值页可以不赋值；
+静态方法不能同时调用本类中的普通方法，必须实例化；
+本类中静态方法可以相互调用  final常量
+15D
+16B
+17D js产生于客户端 json也可以作为返回格式
+XMLhttpRequest有一个readyState属性可以返回当前请求http状态码
+18D maxldel非活跃的最大连接数量
+19A
+20AC  DOM对象innerHtML val()文本框
+21A
+22C 先实例化，初始化，
+23C  向上转型子类转父类父类 =  new 子类
+向上转型 子类 转父类 父类· =new 子类
+A类继承B类 向上转型B b=  new A();
+24C
+25B
+26C
+27D  前端（脚本程序）有客户端执行
+28C
+29C document属于Js
+30D 当$()的参数为DOM对象时，则该对象不需要使用双引号进行包裹
+jq工厂函数说法错误的是：$()作用将DOM对象转化为window对象
+31C Linux编辑器中，命令dd用来删除当前行
+32C
+33A 三层架构表示层，业务逻辑层，数据访问层
+34D！=-1
+35C
+ValidityState对象的tooLong属性表示输入的内容超过最大限度
+rangeOverflow输入的值超过最大范围
+36Dcreate index 创建索引 视图可以进行增删改查
+37 C  休眠阻塞
+38AC  DOM对象value jq对象val()
+39AC throws放在方法名后声明异常   throw抛出异常
+throws放在方法名后声明异常，throw抛出异常
+40C
+41B
+42A
+43A 子查询关键字in   返回一个值可以用=代替
+44C
+45B    charAt(下标)返回指定下标的字符 下标从0开始
+46 A查看字符集命令  show查看  like‘%’ 
+47D方法重载：方法名称可以相同，参数列表不同，参数个数，参数类型，参数顺序
+48BD软件测试方法黑白盒测试
+49AB 结构不可以实例化，不可以赋初始值
+结构不可以实例化，不可以赋值
+结构不能实例化，不能赋值
+50C
+
+
+$("form").submit(function(){
+	var name=$("name='name'").val();
+	var depa=$("name='depa'").val();
+	var date=$("name='date'").val();
+	var type=$("name='type'").val();
+	if(name==""){
+		alert("请填写你的姓名");
+		return false;
+	}
+	if(dapa==""){
+		alert("所属部门不能为空");
+		return false;
+	}
+	if(date==""){
+		alert("请填写日期");
+		return false;
+	}
+	if(name==0){
+		alert("请选择考勤类型");
+		return false;
+	}
+	return true;
+})
+
+
+
+
+
+
+
+
+
+
+
+批量插入
+#批量数据脚本
+#往表内插入1000w数据
+#分析1.创建数据库；建表
+#2.设置参数(二进制)log_bin_trust_function_creators
+#创建函数保证每条数据不同  随机产生字符串，随机产生部门编号
+#3创建存储过程
+#4.调用储蓄过程
+create database if not exists employee;
+use employee;
+create table if not exists dept(
+id int primary key auto_increment  comment'编号',
+deptno int unsigned not null default 0 comment'部门编号', 
+deptname varchar(50) not null default '' comment'部门名称',
+loc int not null comment'楼层'
+)engine=innodb charset =utf8;
+create table emp(
+id int unsigned primary key auto_increment ,
+empno int unsigned not null default 0 comment'员工编号',
+empname varchar(50) not null default '' comment '员工姓名',
+job varchar(50) not null default '' comment '工作名称',
+mgr int unsigned not null default 0 comment'上级编号',
+entertime date not null comment'入职时间',
+sal decimal(7,2) not null comment'薪水',
+comm decimal(7,2) not null comment'红利',
+deptno int  unsigned not null  default 0 comment'部门编号'
+)engine=innodb charset=utf8 comment='员工表';
+#创建函数
+#开启变量(二进制)
+show variables like 'log_bin_trust_function_creators';
+#global(二进制)
+set global log_bin_trust_function_creators=1;
+#自带函数now()
+select NOW()from dual;
+#随机字符函数
+delimiter $$
+create function rand_string(n int)returns varchar(255)  
+begin 
+declare chars_str varchar(100) default'abcdefghijklmnopqrestuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+declare return_str varchar(255) default '';
+declare i int default 0;
+while i<n do
+set return_str =CONCAT(return_str,SUBSTRING( chars_set ,FLOOR(1+RAND*52),1));
+set i=i+1;
+end while;
+return return_str;
+end$$
+select NOW() from dual;
+#随机产生部门编号
+delimiter $$
+create function rand_num() returns int(5)
+begin
+declare  i int default 0;
+set i=FLOOR(100+RAND()*10 );
+return i;
+end$$
+#创建存储过程
+#往emp表中插入数据的存储过程
+desc emp;
+desc dept;
+alter table emp add constraint fk_emp_dept
+foreign key (deptno)
+references dept(deptno);
+delimiter $$
+create procedure insert_emp(in start int(10),in max_num int(10))
+begin 
+declare i int default 0;
+set autocommit=0;
+repeat 
+set i=i+1;
+insert into emp(empno,empname,job,mgr,entertime,sal,comm,deptno)
+values((start+i),rang_string,'salesman',0001,CURDATE(),2000,4000,rand_string);
+until i=max_num
+end repeat;
+commit;
+end $$
+#往emp表中插入数据的存储过程
+delimiter$$
+create procedure insert_dept(in start int(10),in max_num int(10))
+begin
+declare i int default 0;
+set autocommit=0;
+repeat 
+set i=i+1;
+insert into dept(deptno,deptname,loc)values((start+i),rand_string(10),rand_string(8));
+until i=max_num
+end repeat;
+commit;
+end$$ 
+#调用存储过程
+delimiter $$
+select * from dept,emp  where dept.deptno=emp.deptno;
+call insert_dept(100,10);
+delimiter ;
+call insert_emp(100001,500000);
+select * from emp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+有歧义：index（a，b，c）；
+where a=4 and b like'kk%' and c=5; a用b用c不用
+
+sql优化
+#添加索引
+alter table student add index index_id(id);
+alter table score add index index_id(sid);
+alter table subject add index index_id(sid);
+explain select student.id,student.name,score.score from student,score,subject
+where student.id=score.xid and subject.sid=score.sid ;
+
+
+select * from student;
+select * from score;
+#添加字符
+alter table student add age int comment'年龄';
+alter table student add sex char(2) comment'性别';
+alter table student add phone int(20)comment'联系方式';
+alter table student add gradeid int comment'年级';
+insert into student values(null,'小青','2000-01-01',20,'男',13,14785236901),
+(null,'小青','2000-01-01',20,'男',13,78965142301),
+(null,'小强','2002-05-11',18,'男',11,35785236936),
+(null,'小李','2001-09-19',19,'女',12,14785232147),
+(null,'牛一','2004-04-04',16,'男',13,12036547896),
+(null,'柴尔','2004-08-14',16,'男',13,15996321470),
+(null,'巴清','2010-10-10',10,'女',13,85264789214),
+(null,'张仲景','1990-09-19',30,'男',13,84123658901),
+(null,'叶萍','1993-03-13',27,'男',13,19635874125),
+(null,'李准基','2002-12-25',18,'男',13,15632965896)
+;
+desc score;
+desc student;
+#优化性能 range
+explain select * from student,score, subject 
+where student.id=score.xid 
+and score.sid=subject.sid 
+and student.id>5 and student.id<15;
+explain select * from student where id in(5,10);
+#index
+explain select id from student ;
+#all
+explain select * from student;
+#查看索引
+show index from student;
+#索引长度
+explain select id from student ;
+explain select name from student ;
+explain select* from student where sex='男';
+#添加索引
+alter table student add index index_stu(name);
+alter table student add index indes_sex(sex);
+desc student;
+#删除索引
+drop index index_stu on student;
+drop index indes_sex on student;
+#添加复合索引
+alter table student add index name_sex_index(name,sex);
+explain select * from student where name='';--153
+explain select sex from student;--160
+select * from student;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#展示所有表格
+show tables;
+create table if not exists student02(
+studentNo int(4) not null primary key comment'学号',
+LoginPwd varchar(20) not null comment'密码',
+studentName varchar(50) not null comment'学生姓名',
+sex char(2) not null default '男' comment'性别',
+gradeId int(4)unsigned  comment'年级编号',
+phone varchar(50) comment'电话',
+address varchar(255) default '默认不祥' comment'地址',
+bornDate datetime comment'出生日期',
+email varchar(50) comment'邮箱',
+identity varchar(18) unique key comment'身份证号码'
+)charset=utf8;
+create table if not exists result01(
+studentNo int(4) not null comment'学号',
+subjectNo int(4) not null comment'课程编号',
+examDate datetime not null comment'考试日期',
+studentResult int(4) not null comment'考试成绩'
+); create table if not exists subject02(
+subjectNo int(4) auto_increment primary key comment'课程编号',
+subjectName varchar(50) comment'课程姓名',
+classHour int(4) comment'学时',
+gradeid int(4) comment'年级编号'
+);
+use db3_9;
+#修改表名
+alter table a rename abel;
+db3_9
+desc abel;
+desc able ;
+#添加字段
+alter table abel add age int(4) not null comment'年级';
+alter table able add address varchar(50) default '地址不详' comment'地址';
+alter table able add sex char(2) not null comment '性别';
+alter table able add phone varchar(18) not null comment'电话号码';
+alter table able add grade varchar(10)not null comment'年级';
+#修改字段
+alter table able change age nianling int(3) comment'年级';
+alter table able change address dizhi varchar(50) comment'地址';
+alter table able change grade nianji varchar(5) not null comment'年级';
+alter table able change sex xingbie varchar(2) default'男' comment'性别';
+alter table able change tel phone int(4)  not null comment'联系方式';
+#删除字段
+alter table able drop dizhi;
+alter table able drop nianling;
+alter table able drop tel;
+alter table able drop xingbie;
+alter table able drop nianji;
+alter  table result01 drop studentNo; 
+alter table result01 add studentNo int(4) comment'学号';
+desc result01;
+#建立主键
+alter table result01 add constraint pk_result
+primary key result(subjectNo);
+#建立外键
+alter table subject01 add constraint fk_result01_subject01
+foreign key (subjectNo)
+references result01 (subjectNo);
+#建立主键
+alter table result02 add constraint pk_result02
+primary key (subjectNo); 
+
+#建立外键
+alter table subject02 add constraint fk_result02_subject02
+foreign key (subjectNo)
+references result02(subjectNo);
+#建立主键
+alter table  result01 add constraint pk_result
+primary key result(subjectNo);
+desc result01;
+#建立外键result01表中subjectNo和subject01表中的subject建立主外键
+test
+desc subject01;
+desc result01;
+desc grade;
+desc student;
+create table if not exists grade
+( 
+gid int(11)not null primary key ,
+gname varchar(50)
+ );
+ create table  if not exists student03(
+ id int(50) not null primary key ,
+ name varchar(50) not null ,
+ birthday datetime ,
+ gid int(11) 
+ );
+ #grade表中gid为主键
+ alter table grade add constraint pk_grade
+ primary key grade(gid);
+ #student03表中gid和grade表中gid建立主外键关系
+ alter table student03 add constraint fk_grade_student03
+ foreign key (gid)
+ references grade (gid);
+ desc student03;
+ desc grade;
+
+create table person01(
+number int(4) auto_increment primary key comment'序号',
+name varchar(50) not null comment'姓名',
+sex char(2) comment'性别',
+bornDate datetime comment'出生日期'
+
+);
+create table person02(
+number int(4) auto_increment primary key comment'序号',
+name varchar(50) not null comment'姓名',
+sex char(2) comment'性别',
+bornDate datetime comment'出生日期'	
+
+);
+#修改表名
+alter table person01 rename db_person01;
+alter table person02 rename db_person02;
+#删除出生日期字段
+alter table db_person01 drop bornDate;
+alter table db_person02 drop bornDate;
+#增加出生日期字段数据类型date
+alter table db_person01 add bornDate date;
+alter table db_person02 add bornDate date;
+#修改字段number为id 数据类型为bigint；
+alter table db_person01 change number id bigint ;
+alter table db_person02 change number id bigint;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0310
+#limit使用
+select * from stu limit 5;
+select * from stu limit 2,8;#2为起始位置（不包括2），8为长度
+select * from stu limit 5,
+create table if not exists subject(
+sid int primary key auto_increment comment '科目编好',
+sname varchar(50) null comment '科目名称'
+)charset=utf8;
+create table if not exists student(
+id int primary key auto_increment comment '序号',
+name varchar(50) not null comment '学生姓名',
+birthday datetime null comment '出生日期'
+)charset=utf8;
+create table if not exists score(
+id int primary key auto_increment comment '编号',
+xid int null comment '学生编号',
+sid int null comment '科目编号',
+examdt date comment '考试日期',
+score int comment '考试分数'
+)charset=utf8;
+insert into subject values (null,'java'),(null,'html'),(null,'mysql');
+insert into student values (null,'小白','2000-10-1'),
+(null,'小白','2000-10-1'),
+(null,'小李','1999-6-5'),
+(null,'小王','1998-7-7'),
+(null,'小张','2000-8-23'),
+(null,'小黑','2001-8-14');
+
+#limit使用 参数1代表从参数1的位置开始截取，但不包括参数1，参数2代表长度
+select * from student limit 1,5;
+select * from student limit 3; #默认从0开始
+
+insert into score values (null,1,1,'2020-3-10',69),
+(null,1,2,'2020-3-10',60),
+(null,1,3,'2020-3-9',60),
+(null,2,1,'2020-3-10',100),
+(null,2,2,'2020-3-10',88),
+(null,3,1,'2020-3-10',60),
+(null,4,2,'2020-3-10',98),
+(null,5,1,'2020-3-9',45);
+
+select * from subject;
+select * from student;
+select * from score;
+#查询比小张还小的学生
+select * from student where name='小张';
+select * from student where birthday>'2000-08-23';
+select * from student where birthday>(select birthday from student where name='小张');
+select * from student where name='小王';
+#查询比小王小的学生
+select * from student where birthday>'1998-07-07';
+#子查询
+select * from  student where birthday>(
+select birthday from student where name='小王'
+);
+#函数
+#字符串拼接
+select CONCAT('O','b','j','k');
+select CONCAT('曹','芳','格','斗','之','王');
+select CONCAT('张','梓','毅');
+select CONCAT('北体大','男篮','队长','刘毅');
+select CONCAT('这','就','是','灌','篮');
+#字符串替换   #从参数1开始，替换参数2长度，
+select insert ('是你妈老爷们该干的事？',2,5,'和你有屁关系呀');
+select insert('不要再叫我小皇帝了，我已经登基了',3,4,'The King');#参数1字符串开始替换的位置，参数2字符串替换的长度
+select insert('挑我有好果子吃？',3,2,'没有');#参数1字符串开始替换的位置，参数2字符串替换的长度
+#字符串截取  从下标5开始截取长度为4的字符串
+select SUBSTRING('是你妈老爷们该干的事？',5,4);
+select SUBSTRING('不要再叫我小皇帝了，我已经登基了',3,4);#从下标3开始截取，截取长度为4的字符串
+select SUBSTRING('有人的地方，就有江湖',4,9);
+select SUBSTRING('江湖不是打打杀杀，而是人情世故',1,2);
+select SUBSTRING('江湖不是打打杀杀，而是人情世故',3,6);
+#大小写转换
+select UPPER('mysql');
+select LOWER('MYSQl');
+#日期函数
+select CURDATE();
+select CURDATE();
+select CURDATE();
+select CURTIME();
+select CURTIME();
+#返回日期为一年当中的第几周
+select week(NOW());
+select week('2018-09-13');
+select week('2021-04-29');
+select week('2019-08-19');
+select week('2020-01-04');
+#返回日期数间相隔
+select DATEDIFF(NOW(),'1999-03-16');
+select DATEDIFF(NOW(),'1999-01-01');
+select DATEDIFF('2021-04-29',NOW());
+select DATEDIFF(NOW(),'2019-08-19');
+select DATEDIFF('2021-04-29','2019-08-19');
+#返回日期天数加上n天后日期,负数也行
+select ADDDATE(NOW(),-89);
+select ADDDATE('2019-01-03',155);
+select ADDDATE('2021-04-21',999);
+select ADDDATE('2021-01-29',-100);
+#数学函数
+#返回大于或等于数值x的最小整数
+select CEIL(98.023);
+select CEIL(85.321);
+select CEIL(54.36);
+select CEIL(49.63);
+select CEIL(89.54);
+select CEIL(100);
+#返回小于或等于数值新的最大整数
+select FLOOR(98.023);
+select FLOOR(54.36);
+select FLOOR(25);
+select FLOOR(36.98);
+select FLOOR(36.001);
+#返回0到1的随机数
+select RAND();
+select RAND();
+select RAND();
+select RAND();
+select RAND();
+原子性
+atomicity
+一致性
+consistency
+隔离性
+isolation
+持久性
+durability
