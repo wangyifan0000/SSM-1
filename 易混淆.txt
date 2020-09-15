@@ -1,0 +1,77 @@
+数值类型大小排序 byte<short<int< long<float<double
+基本数据类型(封装类)  字节数
+byte(Byte)		1	
+short(Short)		2
+int(Integer)		4
+long(Long)		8
+float(Float)		4
+double(Double)		8
+boolean(Boolean)		2
+char(Charater)  		2
+
+java四种引用
+强引用：垃圾回收器不会回收
+软引用：如果内存足够，垃圾回收器不会回收，如果内存不足，垃圾回收器不会回收
+弱引用：一旦发现只有弱引用的对象，垃圾回收器就会进行回收
+虚引用：如果发现该对象还具有虚引用，就会在回收对象之前，把这个虚引用加入到与之关联的引用队列中
+
+Switch能否用String做参数
+switc语句中的变量类型可以是byte，short，int ，char。从jdk1.7之后可以使用String类型
+是通过switch中的String.hashcode将String转换为int进行判断
+
+equals和==区别
+==操作符是用来比较两个变量值是否相等，即就是比较变量在内存中存储地址是否相等
+equals()时String类从Object类中继承的。被用来检测两个对象的内容是否相同
+
+静态变量和实例变量区别
+静态变量加static关键字，实例变量不用
+静态变量不属于任何实例对象，属于类，也称类变量，只要程序加载了类的字节码，不用创建
+任何实例对象就会分配空间，静态变量不用创建任何对象就能直接使用，实例变量需要创建实例对象才能被使用
+
+OverLoad(方法重载)：方法名称相同，参数列表不同，参数个数，参数类型，与返回值类型不同
+Override(方法重写)：在子父类关系中，方法名称和参数完全相同，返回值类型相同，子类访问修饰物不得严于父类访问修饰符
+
+自动类型转换 小转大
+强制类型转换 大转小
+ 
+css（单个属性用，）
+css(多个属性值用：用，分割)
+
+字节输入流：FileInputStream 字节输出流FileOutputStream
+字符输入流：InputStreamReader 字符输出流:OutputStreamReader 
+
+DCL数据化控制语言 grant commit rollback
+DML数据化操作语言insert delete update
+DDL数据化定义语言create drop alter
+
+功能说明不属于用例图组成部分
+
+静态调非静态实例化
+静态调静态,非静态调非静态直接调用
+
+default在整个包中可以使用
+protect继承地类可以使用，和private一样的权限
+
+java中this关键字   this关键字是在对象内部指代对象自身的引用
+static修饰的属性和方法称为类属性和类方法
+不使用static修饰的属性和方法通常称为实例属性和实例方法
+指定Servlet类型<servlet-class>com.abcine.OrderServlet</Servlet-class>
+C#中说法错误的是静态成员可以用类的实例调用
+C#中多态说法错误的是：字段方法属性事件和索引器都可以是虚拟的
+C#中值方式传递一个枚举方式不能保存在方法修改的值
+为获得用户提交的表单参数，可以从ServletRequest接口中得到
+web容器三阶段说法正确的是：执行阶段，容器接收客户端请求后，执行编译成字节码的.class文件
+在Linux环境中安装Tomcat时，描述正确的是：Tomcat版本必须大于6.0才能安装，
+不可以将Windows中的安装程序在Linux中安装
+在JSP中maxdle属性非活跃的最大连接数
+ajax的工作流程：XMLhttpRequest有一个readyStatus属性返回当前请求的http状态码
+结构不能实例化public student（）{}，不能赋初始值 public String name=“zs”；
+js中获取唯一元素正确的是：getElementsById();
+js语句中显示语句错误的
+是：getElementsByTagName().get(0)
+
+java关键字
+数据类型boolean byte char double false float int long new short true void instanceof
+用于语句 break case catch continue dafault do else  for if return switch try while  finally throw this super
+用户修饰abstract final native private protect public static synchronized transient volatile
+方法类接口包异常class extends implements interface package import throws
